@@ -3,3 +3,5 @@ Pedestrian intention prediction (PIP) is crucial for autonomous driving systems 
 You can read all annotation information in the dataset using the get_info script. The script translate can be used to convert the annotated Chinese semantic information into English.
 
 You can find information about the PIE dataset we based on at [PIE dataset](http://data.nvision2.eecs.yorku.ca/PIE_dataset/).
+
+You can also get the [annotations](https://pan.baidu.com/s/1akKW2XbTJr-88XkEQud7qw?pwd=2468) of PIE dataset here.
